@@ -62,7 +62,7 @@ print(df1)
 
 
 ##OUTPUT:
-/ Show the result/
+![output](?raw=true)
 
 ##RESULT
-/Type your result here/
+Thus the above program for standardizing the given data was implemented successfully.
